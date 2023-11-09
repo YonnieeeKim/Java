@@ -1,4 +1,4 @@
-package exam_int;
+
 
 public class p69_4 {
 	public static void main(String[] args) {

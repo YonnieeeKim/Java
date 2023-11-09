@@ -1,4 +1,4 @@
-package exam_int;
+
 
 import java.util.Scanner;
 
