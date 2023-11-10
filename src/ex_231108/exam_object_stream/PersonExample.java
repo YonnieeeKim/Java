@@ -27,6 +27,7 @@ public class PersonExample {
 		} catch (IOException io) {
 			//파일의 끝까지 읽기때문에 무조건 해당 에러 발생함 
 			//처리할 catch 이용
+			//io.printStackTrace();
 		}
 
 	}
